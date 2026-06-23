@@ -1,3 +1,5 @@
+[LINK TO NOTEBOOK](https://colab.research.google.com/drive/1k905JUhSn_8cHa_Ftt7F64-lG1K66-Se#scrollTo=L9X1phgquiyG)
+
 ### Baseline Performance Summary
 
 The zero-shot baseline classification system was evaluated using `llama-3.1-8b-instant` across a test dataset of **61 community posts**. The system achieved an exceptional overall baseline accuracy of **90.0%** (**60 out of 61** successfully parsed responses), demonstrating that the structured system prompt and explicit tie-breaker rules provided highly robust category boundaries even without fine-tuning.
